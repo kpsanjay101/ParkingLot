@@ -15,7 +15,7 @@ This project is a simple implementation of a car parking system in Java. It supp
 
 1. *Clone the repository:*
 
-   git clone [https://github.com/yourusername/CarParkingSystem.git](https://github.com/Raushan1234567/ParkingLot/edit/main/README.md)https://github.com/Raushan1234567/ParkingLot/edit/main/README.md
+   git clone https://github.com/kpsanjay101/ParkingLot
 
 
    ## Functionality
